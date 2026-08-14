@@ -1,4 +1,6 @@
 {
   "enabled": true,
-  "redirects": {}
+  "redirects": {
+    "188-2": "nodo-sports.app"
+  }
 }
